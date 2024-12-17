@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SaranshGolash
+- 😄 Pronouns: he/him
 - 👀 I’m interested in Mobile App Development and Web Development.
 - 🌱 I’m currently learning Android App Development and Web Development.
 - 💞️ I’m looking to collaborate on a small project
 - 📫 Here is my mail id to reach out to me - saranshgolash08@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am cooked 
 
 <!---
