@@ -1,10 +1,16 @@
--👋 Hi, I’m Saransh Golash
--😄 Pronouns: he/him
--🏆 Won Codedex Mini Holiday Hackathon 2024
--👀 I’m interested in Full-Stack Development.
--🌱 Skills that I have obtained along the way: HTML5, CSS, Bootstrap (Framework), JavaScript, JQuery, node.js, express.js (Framework), EJS, Git & GitHub Version Control, CI/CD
--📫 Here is my mail id to reach out to me - saranshgolash08@gmail.com
--⚡ Fun fact: I am cooked 
+👋 Hi, I’m Saransh Golash
+<br>
+😄 Pronouns: he/him
+<br>
+🏆 Won Codedex Mini Holiday Hackathon 2024.
+<br>
+👀 I’m interested in Full-Stack Development.
+<br>
+🌱 Skills that I have obtained along the way: HTML5, CSS, Bootstrap (Framework), JavaScript, JQuery, node.js, express.js (Framework), EJS, Git & GitHub Version Control, CI/CD
+<br>
+📫 Here is my mail id to reach out to me - saranshgolash08@gmail.com
+<br>
+⚡ Fun fact: I am cooked 
 
 <!---
 SaranshGolash/SaranshGolash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
