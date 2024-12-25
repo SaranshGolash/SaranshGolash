@@ -6,7 +6,7 @@
 <br>
 👀 I’m interested in Full-Stack Development.
 <br>
-🌱 Skills that I have obtained along the way: HTML5, CSS, Bootstrap (Framework), JavaScript, JQuery, node.js, express.js (Framework), EJS, Git & GitHub Version Control, CI/CD
+🌱 Skills that I have obtained along the way: HTML5, CSS, Bootstrap (Framework), JavaScript, JQuery, node.js, express.js (Framework), EJS, JSON, Git & GitHub Version Control, CI/CD
 <br>
 📫 Here is my mail id to reach out to me - saranshgolash08@gmail.com
 <br>
