@@ -1,16 +1,80 @@
-👋 Hi, I’m Saransh Golash
-<br>
-😄 Pronouns: he/him
-<br>
-🏆 Won Codedex Mini Holiday Hackathon 2024.
-<br>
-👀 I’m interested in Full-Stack Development.
-<br>
-🌱 Skills that I have obtained along the way: HTML5, CSS, Bootstrap (Framework), JavaScript, JQuery, node.js, express.js (Framework), EJS, MySQL, PostgreSQL, JSON, Git & GitHub Version Control, CI/CD
-<br>
-📫 Here is my mail id to reach out to me - saranshgolash08@gmail.com
-<br>
-⚡ Fun fact: I am cooked 
+# 👋 Hi, I'm **Saransh Golash**
+
+🎓 **Masters in Computer Applications (MCA)** — *1st Year*  
+🏫 **Amity University, Kolkata**
+
+---
+
+💡 I’m a passionate first-year MCA student with hands-on experience in **programming, data structures, and software development**.  
+I love exploring **full-stack technologies**, learning new skills, and contributing to impactful projects.  
+Always eager to grow, collaborate, and help organizations achieve their goals through technology.
+
+---
+
+## 🧠 What I’m Currently Doing
+- Expanding my knowledge in **Full Stack Development**.  
+- Building projects to strengthen my **JavaScript** and **backend** fundamentals.  
+- Learning about **clean code**, **version control**, and **collaborative development**.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS"/>
+
+
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/>
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+</p>
+
+### 💻 Programming & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="45" height="45"/>
+</p>
+
+---
+
+## 🏆 Achievements
+🏅 **Winner — Codedex Mini Holiday Hackathon (2024)**  
+🏅 **Winner — Hack for Humanity Hackathon (2025)**  
+
+---
+
+## 🎯 Goals
+- Build and deploy **production-grade full-stack applications**.  
+- Improve understanding of **system design** and **scalable backend architectures**.  
+- Contribute to **open-source projects** and **collaborative hackathons**.
+
+---
+
+## 📫 Reach Me At
+📧 **saranshgolash08@gmail.com**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, or reach out for exciting opportunities.*
+
 
 <!---
 SaranshGolash/SaranshGolash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
