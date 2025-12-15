@@ -51,6 +51,7 @@ Always eager to grow, collaborate, and help organizations achieve their goals th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="45" height="45"/>
+  <img src="https://cdn.phaser.io/images/logo/logo-download.png" alt="Phaser" width="45" height="45" />
 </p>
 
 ---
