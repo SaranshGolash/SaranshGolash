@@ -12,11 +12,12 @@ Always eager to grow, collaborate, and help organizations achieve their goals th
 ---
 
 ## 🧠 What I’m Currently Doing
-- Expanding my knowledge in **Full Stack Development**  
+- Expanding my knowledge in **Full Stack Development** and **Data Science**
 - Marketing Trainee @Paytm
 - Web Development Intern @Travarsa  
 - Web Development @SourcifyIN
-- Event Management @Hoobit
+- Event Management Intern @Hoobit
+- Mobile Development Intern @PinnacleLabs
 
 ---
 
