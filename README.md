@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Saransh Golash**
 
-🎓 **Masters in Computer Applications (MCA)** — *1st Year*  
+🎓 **Masters in Computer Applications (MCA)** — *2nd Year*  
 🏫 **Amity University, Kolkata**
 
 ---
@@ -12,9 +12,11 @@ Always eager to grow, collaborate, and help organizations achieve their goals th
 ---
 
 ## 🧠 What I’m Currently Doing
-- Expanding my knowledge in **Full Stack Development**.  
-- Building projects to strengthen my **JavaScript** and **backend** fundamentals.  
-- Learning about **clean code**, **version control**, and **collaborative development**.
+- Expanding my knowledge in **Full Stack Development**  
+- Marketing Trainee @Paytm
+- Web Development Intern @Travarsa  
+- Web Development @SourcifyIN
+- Event Management @Hoobit
 
 ---
 
