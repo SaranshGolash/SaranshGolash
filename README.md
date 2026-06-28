@@ -14,8 +14,10 @@ Always eager to grow, collaborate, and help organizations achieve their goals th
 ## 🧠 What I’m Currently Doing
 - Expanding my knowledge in **Full Stack Development** and **Data Science**
 - Marketing Trainee @Paytm
-- Web Development Intern @Travarsa  
+- Web Development Intern @Travarsa
+- GeeksForGeeks Campus Mantri
 - Web Development @SourcifyIN
+- Internshala Student Partner ISP 58
 - Event Management Intern @Hoobit
 - Mobile Development Intern @PinnacleLabs
 
